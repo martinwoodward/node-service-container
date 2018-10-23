@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/martin/nodeBuild/_apis/build/status/martinwoodward.node-service-container)](https://dev.azure.com/martin/nodeBuild/_build/latest?definitionId=33)
+
 # Node.js service in a Docker container
 
 For information on how to use this repository, see [JavaScript](https://docs.microsoft.com/vsts/pipelines/languages/javascript).
